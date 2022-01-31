@@ -1,0 +1,66 @@
+	body{
+	/*
+		background-color:yellow; background-image:url(rbl1.jpg); background-repeat:repeat; background-position:200px 100px; background-attachment:fixed;
+	*/
+		background:url(rbl1.jpg) no-repeat yellow 100px 100px fixed;
+		
+	}
+	h1{
+		
+		background:red;
+		
+	}
+	p{
+		background:purple;
+	}
+	
+	#d1{
+		background:blue;
+		font-size:60px;
+		font-family:arial;
+		font-variant:small-caps; 
+		font-style:italic;
+		font-weight:999;
+	}
+	
+	.c1{
+		background:lime;
+		text-align:center;
+		letter-spacing:20px;
+		word-spacing:50px;
+		
+	}
+	.c2{
+		color:maroon;
+	}
+	
+	.test{
+		
+		color:green;
+		direction:ltr;
+		text-indent:100px;
+		white-space:pre;
+	}
+	
+	a:link{
+		
+		color:green;
+		text-decoration:none;
+		font-size:25px;
+	}
+	a:hover{
+		
+		text-decoration:underline;
+		font-size:30px;
+		color:aqua;
+		
+	}
+	
+	a:visited{
+		color:red;
+		
+	}
+	a:active{
+		
+		color:pink;
+	}

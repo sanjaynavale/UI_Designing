@@ -1,0 +1,19 @@
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+</head>
+<body >
+	<h1 id="d1" >Welcome to cnc web world</h1>
+	<p class="c1" >Welcome to cnc wreb world</p>
+	<h1>Welcome to cnc web world</h1>
+	<p>Welcome to cnc wreb world</p>
+	<h1 class="test">Welcome to         cnc web world</h1>
+	<p>Welcome to cnc wreb world</p>
+	<h1>Welcome to cnc web world</h1>
+	<p>Welcome to cnc wreb world</p>
+	<h1 class="c1 c2">Welcome to cnc web world</h1>
+	<p id="d1">Welcome to cnc wreb world</p>
+	
+	
+</body>
+</html>

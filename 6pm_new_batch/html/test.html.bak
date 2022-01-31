@@ -1,0 +1,27 @@
+<html>
+	<head>
+		<title>MyWebPage</title>
+		
+	</head>
+	<body bgcolor="aqua">
+		<h1>Welcome to cnc &nbsp;&nbsp;&nbsp;&nbsp; web world navi mumbai 36px</h1>
+		<h2>Welcome to cnc <br>web world navi mumbai</h2>
+		<h3>Welcome to cnc web world navi mumbai</h3>
+		<h4>Welcome to cnc web world navi mumbai</h4><hr>
+		<h5>Welcome to cnc web world navi mumbai</h5>
+		<h6>Welcome to cnc web world navi mumbai 12px</h6>
+		
+		<p><b>Welcome to cnc web world</b> it training <i>and development center..!!!Welcome to cnc web world it training</i> and development center..!!! <em>Welcome to cnc web world it training and </em>development center..!!!Welcome to cnc <del>web world</del> it training <s>and development</s> center..!!!<code>Welcome to cnc web world it training and development center..!!!Welcome to cnc web world it training</code> and development center..!!!Welcome to cnc web world it training and <q>development</q> center..!!!</p>
+		<p>Welcome to cnc web world it training and development center..!!! x<sup>2</sup> H<sub>2</sub>O Y<sup>2*3</sup></p>
+		<p><abbr title="CNC WEB WORLD">Welcome</abbr> to cnc web world it training and development center..!!!</p>
+		
+		<marquee bgcolor="red" height="100" vspace="100" hspace="100" direction="right" scrollamount="40" loop="30" behavior="alternate"> <h2>This is marquee Tag </h2> </marquee>
+		
+		<img src="rbl1.jpg" width="300" height="300" border="1" vspace="" hspace="" title="MyImage" alt="Image" align="" />
+		<br>
+		<img src="rbl1.jpg" width="300" height="300" border="1" vspace="" hspace="" title="MyImage" alt="Image" align="" />
+		<br>
+		<br>
+		<a href="https://cncwebworld.com" >Google</a>
+	</body>	
+</html>
